@@ -14,7 +14,7 @@ El proyecto se basa en el repositorio clonado de GitHub `alura-es-cursos/challen
 │   ├── tienda_3.csv
 │   ├── tienda_4.csv
 └── Analisis_Tiendas.ipynb  # O el nombre de tu notebook de Colab
-└── README.md             # Este archivo
+└── README.md           # Este archivo
 
 * `base-de-datos-challenge1-latam/`: Esta carpeta contiene los archivos CSV con los datos de ventas de cada una de las cuatro tiendas.
 * `tienda_X.csv`: Archivo CSV con los datos de ventas de cada tienda (donde X es 1, 2, 3 o 4).
@@ -45,16 +45,6 @@ Se realizó un ranking comparativo de las tiendas basado en las métricas calcul
 * La **Tienda 4** tiene el menor **Costo Promedio de Envío** pero el menor volumen de actividad (Facturación y Transacciones).
 
 El análisis sugiere que la **Tienda 3** podría representar un mercado interesante para una nueva apertura, dada su alta satisfacción del cliente y eficiencia logística, lo cual son factores importantes para la rentabilidad a largo plazo.
-
-### Ejemplos de Visualizaciones (Potenciales)
-
-Aunque no se incluyen directamente en este README, las métricas calculadas pueden ser visualizadas para una mejor comprensión. Algunos ejemplos de gráficos que podrían generarse son:
-
-* Gráfico de barras comparando la Facturación Total de cada tienda.
-    ![Ejemplo de gráfico de barras de Facturación Total](placeholder_facturacion_bar_chart.png) * Gráfico de barras comparando el Promedio de Calificación de Clientes por tienda.
-    ![Ejemplo de gráfico de barras de Calificación Promedio](placeholder_rating_bar_chart.png) * Gráfico de barras mostrando el Costo Promedio de Envío por tienda.
-    ![Ejemplo de gráfico de barras de Costo de Envío](placeholder_shipping_bar_chart.png) * Tablas o gráficos que muestren las categorías o productos más populares por tienda.
-    ![Ejemplo de tabla de Productos Más Vendidos por Tienda](placeholder_popular_products_table.png) *(Nota: Las imágenes son placeholders. Deberías generar los gráficos correspondientes en tu notebook y guardarlos para incluirlos aquí, o simplemente dejar la descripción si no generas imágenes.)*
 
 ## Cómo Ejecutar el Notebook
 
