@@ -7,13 +7,21 @@ El objetivo principal de este proyecto es evaluar el desempeño comercial y oper
 ## Estructura del Proyecto y Organización de Archivos
 
 El proyecto se basa en el repositorio clonado de GitHub `alura-es-cursos/challenge1-data-science-latam`. La estructura de archivos relevante es la siguiente:
+
 /challenge1-data-science-latam/
+
 ├── base-de-datos-challenge1-latam/
+
 │   ├── tienda_1.csv
+
 │   ├── tienda_2.csv
+
 │   ├── tienda_3.csv
+
 │   ├── tienda_4.csv
-└── Analisis_Tiendas.ipynb  # O el nombre de tu notebook de Colab
+
+└── AluraStoreLatam.ipynb
+
 └── README.md           # Este archivo
 
 * `base-de-datos-challenge1-latam/`: Esta carpeta contiene los archivos CSV con los datos de ventas de cada una de las cuatro tiendas.
